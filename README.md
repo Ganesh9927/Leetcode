@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GaneshYadav31/Leetcode/tree/master/0001-two-sum) |
+| [0179-largest-number](https://github.com/GaneshYadav31/Leetcode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,8 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaneshYadav31/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0179-largest-number](https://github.com/GaneshYadav31/Leetcode/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaneshYadav31/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/GaneshYadav31/Leetcode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/GaneshYadav31/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
