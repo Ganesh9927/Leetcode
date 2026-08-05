@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GaneshYadav31/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/GaneshYadav31/Leetcode/tree/master/0035-search-insert-position) |
 | [0179-largest-number](https://github.com/GaneshYadav31/Leetcode/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/GaneshYadav31/Leetcode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/GaneshYadav31/Leetcode/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/GaneshYadav31/Leetcode/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/GaneshYadav31/Leetcode/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/GaneshYadav31/Leetcode/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaneshYadav31/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GaneshYadav31/Leetcode/tree/master/0027-remove-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/GaneshYadav31/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
